@@ -1,0 +1,6 @@
+## Modman Module Mozg
+app/code/community/Ceicom/EbitIntegration/ app/code/community/Ceicom/EbitIntegration/
+app/design/frontend/base/default/layout/ceicom/ebitintegration.xml app/design/frontend/base/default/layout/ceicom/ebitintegration.xml
+app/design/frontend/base/default/template/ceicom/ebitintegration/ app/design/frontend/base/default/template/ceicom/ebitintegration/
+app/etc/modules/Ceicom_EbitIntegration.xml app/etc/modules/Ceicom_EbitIntegration.xml
+skin/frontend/base/default/css/ceicom/ebitintegration/ skin/frontend/base/default/css/ceicom/ebitintegration/

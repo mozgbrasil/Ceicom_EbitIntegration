@@ -1,0 +1,30 @@
+{
+    "name": "mozgbrasil/magento-ceicom-ebitintegration",
+    "description": "ceicom ebitintegration",
+    "version": "1.0.0",
+    "type": "magento-module",
+    "keywords": ["cerebrum", "mozg", "magento", "ceicom"],
+    "homepage": "http://mozg.com.br",
+    "time": "2018-06-20 15:54:01",
+    "license": [
+        "proprietary"
+    ],
+    "authors": [
+        {
+            "name": "Marcio dos Santos Amorim",
+            "email": "suporte@mozg.com.br",
+            "homepage": "http://mozg.com.br",
+            "role": "Developer"
+        }
+    ],
+    "support": {
+        "email": "suporte@mozg.com.br",
+        "issues": "https://github.com/mozgbrasil/magento-ceicom-ebitintegration/issues",
+        "forum": "http://mozg.com.br/forums/view/1",
+        "wiki": "http://wiki.mozg.com.br",
+        "irc": "irc://irc.freenode.org/mozgbrasil",
+        "source": "https://github.com/mozgbrasil/magento-ceicom-ebitintegration",
+        "docs": "https://github.com/mozgbrasil/magento-ceicom-ebitintegration/wiki",
+        "rss": "http://mozg.com.br/sitemap.xml"
+    }
+}
